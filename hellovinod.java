@@ -10,7 +10,9 @@ public class hellovinod
 	{
 
 		System.out.println("Welcome to Devops World"); 
-		System.out.println(" GIT WORLD");
+			System.out.println(" GIT WORLD");
+
+Printing output
 		        	 
 	}
 	}
